@@ -15,5 +15,5 @@
 
 # Configuration for JRE repository
 ---
-repository_root: "http://soaphub.org/liberty/"
+repository_root: "http://soaphub.org/liberty/jre/"
 version: 1.7.0_+
